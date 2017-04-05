@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/MaterializeCSS",
+    "name": "maiconpinto/croogo-materializecss-theme",
     "description": "MaterializeCSS plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
