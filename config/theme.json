@@ -1,0 +1,17 @@
+{
+    "name" : "MaterializeCSS",
+    "description" : "MaterializeCSS theme for Croogo",
+    "screenshot" : "/img/screenshot.jpg",
+
+    "author" : "Maicon Pinto",
+    "authorEmail" : "maiconsilva.pinto@gmail.com",
+    "authorUrl" : "http://maiconpinto.com.br",
+
+    "menus" : [
+        "main"
+    ],
+
+    "regions" : [
+        "footer"
+    ]
+}
